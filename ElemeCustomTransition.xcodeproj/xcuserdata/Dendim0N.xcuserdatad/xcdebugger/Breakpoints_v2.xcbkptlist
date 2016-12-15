@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ElemeCustomTransition/ElemeCollectionViewCell.swift"
+            timestampString = "503481743.230547"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "returnInitialConstraint()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElemeCustomTransition.ElemeCollectionViewCell.returnInitialConstraint () -&gt; ()"
+                  moduleName = "ElemeCustomTransition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Dendim0N/Desktop/ElemeCustomTransition/ElemeCustomTransition/ElemeCollectionViewCell.swift"
+                  timestampString = "503475391.889486"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ElemeCustomTransition.ElemeCollectionViewCell.(returnInitialConstraint () -&gt; ()).(closure #1)"
+                  moduleName = "ElemeCustomTransition"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Dendim0N/Desktop/ElemeCustomTransition/ElemeCustomTransition/ElemeCollectionViewCell.swift"
+                  timestampString = "503475391.891122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ElemeCustomTransition/ElemeCollectionViewCell.swift"
+            timestampString = "503481743.230547"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
